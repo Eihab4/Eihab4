@@ -38,7 +38,7 @@ My core strength is adaptability — I can shift quickly between frameworks, lan
 
 ## 📫 Let’s Connect  
 - 💼 [LinkedIn](https://www.linkedin.com/in/eihab-muhammad-69a580242/)  
-- 🌐 [Email](eihabmuhammed56@gmail.com)  
+- 🌐 [Email](mailto:eihabmuhammed56@gmail.com)
 
 ---
 
