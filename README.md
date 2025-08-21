@@ -1,4 +1,4 @@
-# Eihab Mohamed  
+# Eihab Muhammad  
 
 **Software Engineer | Specialist in AI and Automation**  
 
