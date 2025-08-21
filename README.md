@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Eihab Mohamed  
 
-🚀 **Fullstack Developer | AI & Automation Enthusiast**  
+🚀 **Software Engineer | AI & Automation Enthusiast**  
 
 I build scalable web applications and integrate intelligent AI-powered solutions.  
 My core strength is adaptability — I can shift quickly between frameworks, languages, and stacks to deliver efficient, production-ready solutions.  
