@@ -11,7 +11,7 @@ My core strength is adaptability — I can shift quickly between frameworks, lan
 
 - **Backend**: Node.js, NestJS, Express, FastAPI  
 - **Frontend**: React, TailwindCSS  
-- **Databases**: SQL, MongoDB (NoSQL)  
+- **Databases**: SQL, NoSQL (MongoDB)  
 - **AI/ML**: LangChain, LangGraph, RAG, OCR pipelines (Tesseract, EasyOCR, IBM Docling)  
 - **DevOps & Tools**: GitHub Actions, Docker  
 - **Other Strengths**: Testing, API design, automation workflows (n8n)  
