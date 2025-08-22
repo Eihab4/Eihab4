@@ -1,6 +1,6 @@
 # Eihab Muhammad  
 
-**Software Engineer | AI Enthusiast & Automation Specialist**  
+**Software Engineer | AI Enthusiast**  
 
 I design and develop scalable web applications, integrating advanced AI-driven solutions to address complex challenges. My core strength is versatility, enabling me to navigate diverse technologies and deliver high-quality, production-ready systems efficiently.  
 
