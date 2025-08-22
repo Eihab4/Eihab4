@@ -1,15 +1,15 @@
 # Eihab Muhammad  
 
-**Software Engineer | Specialist in AI and Automation**  
+**Software Engineer | AI Enthusiast & Automation Specialist**  
 
-I design and develop scalable web applications, integrating advanced AI-driven solutions to address complex challenges. My core strength is versatility, enabling me to navigate diverse technologies and deliver high-quality, production-ready systems efficiently.
+I design and develop scalable web applications, integrating advanced AI-driven solutions to address complex challenges. My core strength is versatility, enabling me to navigate diverse technologies and deliver high-quality, production-ready systems efficiently.  
 
 ---
 
 ## Technical Expertise  
 
 - **Backend Development**: Node.js, NestJS, Express, FastAPI  
-- **Frontend Development**: React, Tailwind CSS  
+- **Frontend Development**: React, Tailwind CSS, Material UI  
 - **Database Systems**: SQL, MongoDB (NoSQL)  
 - **AI and Machine Learning**: LangChain, LangGraph, Retrieval-Augmented Generation (RAG), OCR pipelines (Tesseract, EasyOCR, IBM Docling)  
 - **DevOps and Tools**: GitHub Actions, Docker  
