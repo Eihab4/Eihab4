@@ -10,7 +10,7 @@ I design and develop scalable web applications, integrating advanced AI-driven s
 
 - **Backend Development**: Node.js, NestJS, Express, FastAPI  
 - **Frontend Development**: React, Tailwind CSS, Material UI  
-- **Database Systems**: SQL, MongoDB (NoSQL)  
+- **Database Systems**: SQL, NoSQL (MongoDB)  
 - **AI and Machine Learning**: LangChain, LangGraph, Retrieval-Augmented Generation (RAG), OCR pipelines (Tesseract, EasyOCR, IBM Docling)  
 - **DevOps and Tools**: GitHub Actions, Docker  
 - **Additional Skills**: API design, Test-Driven Development (TDD), automated testing, workflow automation (n8n)  
