@@ -1,59 +1,26 @@
-# Eihab Muhammad
+# Hi, I'm Eihab 👋
 
-**Software Engineer | AI Enthusiast**
+Backend-leaning full-stack engineer based in Cairo. I build web apps and AI systems, mostly around document processing, data extraction, and retrieval over messy real-world data. Computer Science at Cairo University, graduating 2026.
 
-I design and develop scalable web applications, integrating advanced AI-driven solutions to address complex challenges. My core strength is versatility, enabling me to navigate diverse technologies and deliver high-quality, production-ready systems efficiently.
+These days I'm working on financial data infrastructure at Volafolio, building the pipeline that pulls structured data out of complex documents and web sources and makes it queryable.
 
----
+## What I've built
 
-## 💼 Experience
+**Volafolio.** A financial data extraction pipeline (FastAPI, PostgreSQL, LangChain, Firecrawl) that processes complex documents and web sources, with a RAG layer for accurate retrieval over financial data. Wired up LangSmith for tracing and PostHog for analytics, plus a Next.js dashboard with SSR for interactive reporting.
 
-* **Software Engineer** @ Volafolio
-* **Ex- Software Engineer** @ Rizqify
-* **Ex- Software Engineer Intern** @ MasteryHub ITS
+**WisDoc @ Rizqify.** An OCR and LLM platform for extracting text from scanned documents. FastAPI backend, MongoDB, React frontend.
 
----
+**We Pray @ Mastery Hub.** Backend for a community app that helps people organize and meet for group prayers. Built with NestJS and PostgreSQL, with scalable data models, access control, and Google OAuth.
 
-## 🛠 Technical Expertise
+## Tech I reach for
 
-### Backend Development
-* Node.js, NestJS, Express, FastAPI
-* API design, Test-Driven Development (TDD), Automated testing
+**Languages:** TypeScript, Python, Java, C/C++, SQL
+**Backend:** FastAPI, NestJS, Express, Spring Boot
+**Data:** PostgreSQL, MongoDB
+**AI:** LangChain, LangGraph, RAG, OCR pipelines (Tesseract, EasyOCR, IBM Docling)
+**Tooling:** Docker, GitHub Actions, n8n
 
-### Frontend Development
-* React, Tailwind CSS, Material UI
+## Reach me
 
-### AI and Machine Learning
-* LangChain, LangGraph, Retrieval-Augmented Generation (RAG)
-* OCR pipelines (Tesseract, EasyOCR, IBM Docling)
-
-### Database & DevOps
-* **Databases**: SQL, NoSQL (MongoDB)
-* **Tools**: GitHub Actions, Docker, n8n (Workflow Automation)
-
----
-
-## 🎯 Current Focus Areas
-- Building AI-powered fullstack applications for seamless user experiences.
-- Optimizing business processes through automation and orchestration.
-- Advancing expertise in backend testing and Test-Driven Development.
-- Exploring cloud-native architectures for scalable, future-ready solutions.
-
----
-
-## 🚀 What Sets Me Apart
-- **Rapid Adaptability**: Quickly master new technologies and frameworks to meet project demands.
-- **Efficient Delivery**: Produce high-quality solutions swiftly while maintaining robustness.
-- **AI Integration**: Leverage LLMs, RAG, and OCR to create intelligent applications.
-- **Fullstack Versatility**: Excel in crafting scalable APIs and intuitive user interfaces.
-- **Engineering Rigor**: Emphasize secure coding, comprehensive testing, and error handling.
-
----
-
-## 📬 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/eihab-muhammad-69a580242/)
 - [Email](mailto:eihabmuhammed56@gmail.com)
-
----
-
-> **"I engineer technology to transform ideas into impactful, scalable solutions."**
